@@ -5,14 +5,7 @@ This checklist is completely based on OWASP Testing Guide v5. The OWASP Testing 
 
 ## Direct Link
 
-- [OWASP Testing Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist/raw/master/OWASP_WSTG_Checklist.xlsx)
-
-
-### File Hash and Scan Result
-- SHA-256: 2644fa859877c917b4f3d30315ec1d2bbaef7ce6334b5048f8b1eedd60e47c70
-- VirusTotal: https://www.virustotal.com/gui/file/2644fa859877c917b4f3d30315ec1d2bbaef7ce6334b5048f8b1eedd60e47c70
-
-
+- [OWASP Testing Checklist]([https://github.com/tanprathan/OWASP-Testing-Checklist/raw/master/OWASP_WSTG_Checklist.xlsx](https://github.com/gikabyte27/OWASP-Checklist/raw/master/OWASP_WSTG_Checklist.xlsx))
 
 
 ### Contribution
