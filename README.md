@@ -5,7 +5,7 @@ This checklist is completely based on OWASP Testing Guide v5. The OWASP Testing 
 
 ## Direct Link
 
-- [OWASP Testing Checklist]([https://github.com/tanprathan/OWASP-Testing-Checklist/raw/master/OWASP_WSTG_Checklist.xlsx](https://github.com/gikabyte27/OWASP-Checklist/raw/master/OWASP_WSTG_Checklist.xlsx))
+- [OWASP Testing Checklist](https://github.com/gikabyte27/OWASP-Checklist/raw/master/OWASP_WSTG_Checklist.xlsx)
 
 
 ### Contribution
